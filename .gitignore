@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Flex and Bison files
+*.yy.*
+*.tab.*
+stack.hh
+parser.h
+parser.c
+lexer.h
+lexer.c
+
+# Emacs files
+*~
